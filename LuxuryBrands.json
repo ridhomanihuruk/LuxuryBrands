@@ -1,0 +1,166 @@
+{
+  "directory": [
+    {
+      "number":1
+      "name": "Aigner",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":2
+      "name": "ALAIA",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":3
+      "name": "Alexander McQueen",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":4
+      "name": "Balenciaga",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":5
+      "name": "Bally",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":6
+      "name": "Berluti",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":7
+      "name": "Bottega Veneta",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":8
+      "name": "Burberry",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":9
+      "name": "Bvlgari",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":10
+      "name": "Canali",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":11
+      "name": "Chanel",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":12
+      "name": "Christian Louboutin",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":13
+      "name": "Dior",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":14
+      "name": "Ermenegildo Zegna",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":15
+      "name": "Fendi",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":16
+      "name": "Furla",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":17
+      "name": "Giuseppe Zanotti",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":18
+      "name": "Givenchy",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":19
+      "name": "Gucci",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":20
+      "name": "Hugo Boss",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":21
+      "name": "Judith Leiber",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":22
+      "name": "Kenzo",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":23
+      "name": "Louis Vuitton",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":24
+      "name": "Montblanc",
+      "level": 1,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":25
+      "name": "Hermes",
+      "level": 3,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":26
+      "name": "Moreschi",
+      "level": 3,
+      "type": "Luxury Brands"
+    },
+    {
+      "number":27
+      "name": "Stefano Ricci",
+      "level": 3,
+      "type": "Luxury Brands"
+    }
+  ]
+}
