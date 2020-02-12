@@ -91,12 +91,6 @@
       "type": "Luxury Brands"
     },
     {
-      "number": 16,
-      "name": "Furla",
-      "level": 1,
-      "type": "Luxury Brands"
-    },
-    {
       "number": 17,
       "name": "Giuseppe Zanotti",
       "level": 1,
@@ -117,12 +111,6 @@
     {
       "number": 20,
       "name": "Hugo Boss",
-      "level": 1,
-      "type": "Luxury Brands"
-    },
-    {
-      "number": 21,
-      "name": "Judith Leiber",
       "level": 1,
       "type": "Luxury Brands"
     },
